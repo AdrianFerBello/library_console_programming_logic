@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|c:\\users\\user\\desktop\\adrian fernandes\\projetos\\desafiobiblioteca\\desafiobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|solutionrelative:desafiobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|c:\\users\\user\\desktop\\adrian fernandes\\projetos\\desafiobiblioteca\\desafiobiblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|solutionrelative:desafiobiblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|c:\\users\\user\\desktop\\adrian fernandes\\projetos\\desafiobiblioteca\\desafiobiblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|solutionrelative:desafiobiblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|c:\\users\\user\\desktop\\adrian fernandes\\projetos\\desafiobiblioteca\\desafiobiblioteca\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97540E0D-25D5-4AEB-BDD7-A011D21801A8}|DesafioBiblioteca\\DesafioBiblioteca.csproj|solutionrelative:desafiobiblioteca\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Usuario.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Usuario.cs",
+              "RelativeToolTip": "DesafioBiblioteca\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:27:04.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Livro.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca\\Livro.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Livro.cs",
+              "RelativeToolTip": "DesafioBiblioteca\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:18:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Program.cs",
+              "RelativeToolTip": "DesafioBiblioteca\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:17:15.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Adrian Fernandes\\Projetos\\DesafioBiblioteca\\DesafioBiblioteca\\Emprestimo.cs",
+              "RelativeToolTip": "DesafioBiblioteca\\Emprestimo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:29:08.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

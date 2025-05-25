@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.exe
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.deps.json
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.runtimeconfig.json
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.dll
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.pdb
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.AssemblyInfo.cs
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.dll
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\refint\DesafioBiblioteca.dll
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.pdb
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.genruntimeconfig.cache
+C:\Users\User\source\repos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\ref\DesafioBiblioteca.dll
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.exe
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.deps.json
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.runtimeconfig.json
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.dll
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\bin\Debug\net9.0\DesafioBiblioteca.pdb
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.AssemblyInfo.cs
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.sourcelink.json
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.dll
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\refint\DesafioBiblioteca.dll
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.pdb
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\DesafioBiblioteca.genruntimeconfig.cache
+C:\Users\User\Desktop\Adrian Fernandes\Projetos\DesafioBiblioteca\DesafioBiblioteca\obj\Debug\net9.0\ref\DesafioBiblioteca.dll
